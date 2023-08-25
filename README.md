@@ -4,7 +4,7 @@ Design and Develop Modern Ecommerce Plafform
 The project is about developing an E-Commerce Website for Maximan, a bakery shop. 
 This platform will allow Maximan customers to browse, and buy bakery online, enhancing their shopping experience.
 
-![Digram img](img/d1.png)
+![Digram img](img/1.png)
 ![Digram img](img/d1.png)
 
 - Customers come to buy products. Then choose the products that they want.
