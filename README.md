@@ -15,11 +15,14 @@ By TheMagnifico52
 # BPMN Diagram
 ![Digram img](img/d1.png)
 
-- Customers come to buy products. Then choose the products that they want.
+- - Customers come to buy products. Then choose the products that they want.
 If wanting to buy more products, go back to the previous product selection page. If you don't buy more, go to the cart.
 and then check to see if the products in the cart are complete or not
 proceed to payment
   Provide full address details
-  specify payment method Only transfer, no destination collection
-  proceed to payment.
-
+specify payment method Now there is only a collection of destination. 
+proceed to payment
+# All Pools in BPMN
+- Customer
+- Website
+- Shipping company
