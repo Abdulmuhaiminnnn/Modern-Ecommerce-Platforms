@@ -1,13 +1,18 @@
 # Modern-Ecommerce-Platforms
 Design and Develop Modern Ecommerce Plafform
 # Project Overview
-The project is about developing an E-Commerce Website for Maximan, a bakery shop. 
+- The project is about developing an E-Commerce Website for Maximan, a bakery shop. 
 This platform will allow Maximan customers to browse, and buy bakery online, enhancing their shopping experience.
 
 ![Digram img](img/1.png)
 # Plugin
-PDF Invoices & Packing Slips for WooCommerce
-WooCommerce
+- PDF Invoices & Packing Slips for WooCommerce  
+- WooCommerce
+# Theme
+- Cake Shop BakeryVersion: 1.9
+By TheMagnifico52
+
+# BPMN Diagram
 ![Digram img](img/d1.png)
 
 - Customers come to buy products. Then choose the products that they want.
