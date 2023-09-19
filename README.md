@@ -9,6 +9,14 @@ Our mission is to deliver not just baked goods but moments of pure indulgence an
 
 Discover the world of artisanal baking at your fingertips, where every bite is a celebration of flavor, texture, and passion. Join us on this culinary journey, and savor the magic of freshly baked delights from the convenience of your screen.
 
+## 2. Software and Tools Used
+**2.1 Laragon:** [Laragon](https://laragon.org/why-laragon/) is utilized as our local development environment, providing a convenient platform for building and testing the Boo Shop E-Commerce Website before deployment.
+
+**2.2 WordPress:** [WordPress](https://th.wordpress.org/) serves as the primary content management system (CMS) for our website, offering a flexible and user-friendly environment for managing web content.
+
+**2.3 WooCommerce:** [WooCommerce](https://woocommerce.com/) is integrated seamlessly with WordPress, empowering our website with e-commerce capabilities, including product management, shopping cart functionality, and secure payment processing.
+**2.4 Chaty:** [Chaty](https://wordpress.org/plugins/chaty/") is a Floating Chat Widget plugin that user can click on link to get more contact with the website
+
 # Project Overview
 - The project is about developing an E-Commerce Website for Maximan, a bakery shop. 
 This platform will allow Maximan customers to browse, and buy bakery online, enhancing their shopping experience.
