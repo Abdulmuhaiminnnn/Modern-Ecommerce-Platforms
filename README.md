@@ -2,7 +2,7 @@
 Design and Develop Modern Ecommerce Plafform </br>
 Abdulmuhaimin Keai
 
-## *Abstract*
+# *Abstract*
 A website dedicated to selling bakeries offers a delightful online destination for pastry enthusiasts and connoisseurs of baked goods. It provides a virtual bakery experience, allowing customers to explore and purchase a wide array of delectable treats from the comfort of their own homes. With a commitment to exceptional quality and craftsmanship, our website offers a tempting selection of pastries, bread, cakes, and more.
 
 Our mission is to deliver not just baked goods but moments of pure indulgence and joy to our customers. We take pride in our attention to detail, taste, and presentation, ensuring that each bakery item is a masterpiece in itself. Whether you are craving a sweet pastry, or a custom-made cake for a special occasion, our website is your go-to destination.
