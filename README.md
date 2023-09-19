@@ -1,5 +1,5 @@
 # Modern-Ecommerce-Platforms
-Design and Develop Modern Ecommerce Plafform
+Design and Develop Modern Ecommerce Plafform </br>
 Abdulmuhaimin Keai
 # Project Overview
 - The project is about developing an E-Commerce Website for Maximan, a bakery shop. 
