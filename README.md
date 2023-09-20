@@ -23,7 +23,7 @@ Discover the world of artisanal baking at your fingertips, where every bite is a
 **2.6 WooCommerce PDF Invoices & Packing Slips Thai Language Pack:**[WooCommerce PDF Invoices & Packing Slips Thai Language Pack] Adds Thai font (Norasi) to WooCommerce PDF Invoices & Packing Slips.
 
 
-# Project Overview
+# Visual Overview 
 - The project is about developing an E-Commerce Website for Maximan, a bakery shop. 
 This platform will allow Maximan customers to browse, and buy bakery online, enhancing their shopping experience.
 
