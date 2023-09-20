@@ -1,4 +1,4 @@
-# Modern-Ecommerce-Platforms
+ # Modern-Ecommerce-Platforms
 Design and Develop Modern Ecommerce Plafform </br>
 Abdulmuhaimin Keai
 
@@ -18,7 +18,9 @@ Discover the world of artisanal baking at your fingertips, where every bite is a
 
 **2.4 Chaty:** [Chaty](https://wordpress.org/plugins/chaty/") is a Floating Chat Widget plugin that user can click on link to get more contact with the website
 
-**2.5PDF Invoices & Packing Slips for WooCommerce:**[PDF Invoices & Packing Slips for WooCommerce](https://wordpress.org/plugins/woocommerce-pdf-invoices-packing-slips/) 
+**2.5 PDF Invoices & Packing Slips for WooCommerce:**[PDF Invoices & Packing Slips for WooCommerce](https://wordpress.org/plugins/woocommerce-pdf-invoices-packing-slips/) is a plugin for the WooCommerce e-commerce platform that allows store owners to automatically generate and send PDF invoices and packing slips to customers after they place an order.
+
+**2.6 WooCommerce PDF Invoices & Packing Slips Thai Language Pack:**[WooCommerce PDF Invoices & Packing Slips Thai Language Pack] Adds Thai font (Norasi) to WooCommerce PDF Invoices & Packing Slips
 
 # Project Overview
 - The project is about developing an E-Commerce Website for Maximan, a bakery shop. 
