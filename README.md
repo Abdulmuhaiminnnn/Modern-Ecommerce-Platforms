@@ -19,6 +19,7 @@ Discover the world of artisanal baking at your fingertips, where every bite is a
 **2.4 Chaty:** [Chaty](https://wordpress.org/plugins/chaty/") is a Floating Chat Widget plugin that user can click on link to get more contact with the website
 
 **2.5PDF Invoices & Packing Slips for WooCommerce:**[PDF Invoices & Packing Slips for WooCommerce](https://wordpress.org/plugins/woocommerce-pdf-invoices-packing-slips/) 
+
 # Project Overview
 - The project is about developing an E-Commerce Website for Maximan, a bakery shop. 
 This platform will allow Maximan customers to browse, and buy bakery online, enhancing their shopping experience.
