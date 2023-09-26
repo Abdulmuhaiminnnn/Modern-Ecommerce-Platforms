@@ -35,7 +35,8 @@ This platform will allow Maximan customers to browse, and buy bakery online, enh
 
 **HomePage**
 
-![Digram img](img/1.png)
+![homepage one](img/1.png) 
+
 # Plugin
 - PDF Invoices & Packing Slips for WooCommerce  
 - WooCommerce
