@@ -41,13 +41,6 @@ This platform will allow Maximan customers to browse, and buy bakery online, enh
 
 ![homepage two](img/cart.png)
 
-# Plugin
-- PDF Invoices & Packing Slips for WooCommerce  
-- WooCommerce
-# Theme
-- Cake Shop BakeryVersion: 1.9
-By TheMagnifico52
-
 # BPMN Diagram
 ![Digram img](img/d1.png)
 
