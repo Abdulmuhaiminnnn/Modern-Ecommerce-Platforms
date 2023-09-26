@@ -9,6 +9,11 @@ Our mission is to deliver not just baked goods but moments of pure indulgence an
 
 Discover the world of artisanal baking at your fingertips, where every bite is a celebration of flavor, texture, and passion. Join us on this culinary journey, and savor the magic of freshly baked delights from the convenience of your screen.
 
+## 1. Introduction
+We're thrilled to announce the virtual doors of maximan Online are now wide open, inviting you to experience the irresistible world of our artisanal bakery delights from the comfort of your home.
+
+Welcome to a realm where the aroma of freshly baked bread and the allure of decadent pastries come together to bring you a delightful online shopping journey. At maximan, we've poured our passion for baking into crafting an array of delectable treats that tickle taste buds and warm hearts.
+
 ## 2. Software and Tools Used
 **2.1 Laragon:** [Laragon](https://laragon.org/why-laragon/) is utilized as our local development environment, providing a convenient platform for building and testing the Boo Shop E-Commerce Website before deployment.
 
