@@ -15,7 +15,7 @@ We're thrilled to announce the virtual doors of maximan Online are now wide open
 Welcome to a realm where the aroma of freshly baked bread and the allure of decadent pastries come together to bring you a delightful online shopping journey. At maximan, we've poured our passion for baking into crafting an array of delectable treats that tickle taste buds and warm hearts.
 
 ## 2. Software and Tools Used
-**2.1 Laragon:** [Laragon](https://laragon.org/why-laragon/) is utilized as our local development environment, providing a convenient platform for building and testing the Boo Shop E-Commerce Website before deployment.
+**2.1 Laragon:** [Laragon](https://laragon.org/why-laragon/) is utilized as our local development environment, providing a convenient platform for building and testing maximan E-Commerce Website before deployment.
 
 **2.2 WordPress:** [WordPress](https://th.wordpress.org/) serves as the primary content management system (CMS) for our website, offering a flexible and user-friendly environment for managing web content.
 
