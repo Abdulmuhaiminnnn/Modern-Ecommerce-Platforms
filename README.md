@@ -29,7 +29,7 @@ Welcome to a realm where the aroma of freshly baked bread and the allure of deca
 
 ## 3. Method
 
-# Visual Overview 
+## 4. Visual Overview
 - The project is about developing an E-Commerce Website for Maximan, a bakery shop. 
 This platform will allow Maximan customers to browse, and buy bakery online, enhancing their shopping experience.
 
