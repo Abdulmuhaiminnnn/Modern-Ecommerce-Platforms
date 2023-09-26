@@ -33,6 +33,8 @@ Welcome to a realm where the aroma of freshly baked bread and the allure of deca
 - The project is about developing an E-Commerce Website for Maximan, a bakery shop. 
 This platform will allow Maximan customers to browse, and buy bakery online, enhancing their shopping experience.
 
+**HomePage**
+
 ![Digram img](img/1.png)
 # Plugin
 - PDF Invoices & Packing Slips for WooCommerce  
