@@ -66,3 +66,7 @@ This BPMN diagram show my E-Commerce Website processes
 **Choose products to add to cart:** After selecting the products you want. The customer checks in to the cart. If the customer is satisfied with the selected product They will go through the payment process. If customers still feel like they want more bakeries, they can go back to the product selection page.
 
 ![pool customer](img/cart.png) 
+
+**Customer informs address details:** The process to Checkout the product.
+
+
