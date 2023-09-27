@@ -80,4 +80,12 @@ In the cash on delivery section Customers choose to pay on delivery.
 After the customer receives the product The customer makes payment to the shipping company. 
 
    <img src="img/โอน.png" alt="Payment Banking" width="300" height="200" style="margin-right: 20px;">       <img src="img/ปลายทางงง.png" alt="Payment 2c2p" width="300" height="200"> 
-     
+
+**Customers check:** products In this section, customers will be able to check the products to see if the products they have selected are complete or not. 
+
+![review order](img/เช็ค.png)
+
+## Website pool
+
+
+
