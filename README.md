@@ -73,4 +73,5 @@ This BPMN diagram show my E-Commerce Website processes
 
 **Choose payment method:**
 
+![pool customer](img/กรอกวิการชำระ.png)
 
