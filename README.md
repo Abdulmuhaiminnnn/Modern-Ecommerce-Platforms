@@ -87,5 +87,18 @@ After the customer receives the product The customer makes payment to the shippi
 
 ## Website pool
 
+![website pool](img/Website.png)
+
+-**Receive orders from customers from the shopping cart**
+
+-**Receive orders from customers from the shopping cart**  
+
+-**Notify the order to the admin to check the stock.**
+
+-**Notification of out of stock products to customers**
+
+-**Order ready for delivery, after which the product is sent to the transport company**
+
+
 
 
