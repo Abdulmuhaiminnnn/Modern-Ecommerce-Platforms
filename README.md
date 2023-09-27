@@ -1,6 +1,6 @@
  # Modern-Ecommerce-Platforms
 Design and Develop Modern Ecommerce Plafform </br>
-Abdulmuhaimin Keaii
+Abdulmuhaimin Keai
 
 ## Abstract
 A website dedicated to selling bakeries offers a delightful online destination for pastry enthusiasts and connoisseurs of baked goods. It provides a virtual bakery experience, allowing customers to explore and purchase a wide array of delectable treats from the comfort of their own homes. With a commitment to exceptional quality and craftsmanship, our website offers a tempting selection of pastries, bread, cakes, and more.
