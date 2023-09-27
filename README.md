@@ -79,6 +79,5 @@ This BPMN diagram show my E-Commerce Website processes
 In the cash on delivery section Customers choose to pay on delivery.
 After the customer receives the product The customer makes payment to the shipping company. 
 
-      <img src="img/สินค้า.png" alt="Payment Banking" width="300" height="200" style="margin-right: 20px;">
-     
+   <img src="img/โอน.png" alt="Payment Banking" width="300" height="200" style="margin-right: 20px;">       <img src="img/ปลายทางงง.png" alt="Payment 2c2p" width="300" height="200"> 
      
