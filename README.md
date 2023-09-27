@@ -53,3 +53,6 @@ This BPMN diagram show my E-Commerce Website processes
 - Banking system
 - Shipping company
 
+# Customer pool
+ 
+ ![pool customer](img/customer1.png)
