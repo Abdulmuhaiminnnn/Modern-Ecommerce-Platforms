@@ -99,6 +99,8 @@ After the customer receives the product The customer makes payment to the shippi
 
 -**Order ready for delivery, after which the product is sent to the transport company**
 
+![website pool](img/66.png)
+
 
 
 
