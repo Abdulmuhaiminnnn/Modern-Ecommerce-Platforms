@@ -60,3 +60,9 @@ This BPMN diagram show my E-Commerce Website processes
 **Start Buying (green circle):** This marks the beginning of the customer journey on the maximan bakery platform.
 
 **Choose a product:** The store has a wide range of products such as croissants, cookies, cakes, and bread for customers to choose from.
+
+![pool customer](img/shop.png) 
+
+**Choose products to add to cart:** After selecting the products you want. The customer checks in to the cart. If the customer is satisfied with the selected product They will go through the payment process. If customers still feel like they want more bakeries, they can go back to the product selection page.
+
+![pool customer](img/cart.png) 
