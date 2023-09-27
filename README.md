@@ -116,6 +116,9 @@ Customers pay cash upon receipt.
 
 ## Banking system pool
 
+![ Banking system pool pool](img/โอนธนาคาร.png)
+
+
  **Payment Authorization Received:** Start.
 
  **Payment Authorization:** The initial step where the bank verifies the customer's identity and ensures they have sufficient funds for the transfer.
@@ -125,6 +128,31 @@ Customers pay cash upon receipt.
  **Successful gataway:** If everything success, In website will show complete status. If not success, payment will failed.
 
  **End event**
+
+## Shipping company pool
+![ Shipping company pool pool](img/สุดท้าย.jpg)  
+
+-**Receive delivery orders**.
+
+-**Creating a packaging label**.
+
+-**Package delivery**.
+
+-**Order Tracking**.
+
+-**Parcel delivered successfully**.
+
+## 5. Conclusion
+
+Our website was built to celebrate the combination of WordPress and WooCommerce, allowing us to bring a warm and diverse bakery experience straight to your screen. which are meticulously crafted, each piece has a harmonious taste and texture.
+
+## Author
+**Abdulmuhaimin Keai**
+
+**631431016 Fatoni University**
+
+
+
 
 
 
