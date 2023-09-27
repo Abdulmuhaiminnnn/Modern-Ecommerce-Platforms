@@ -27,7 +27,6 @@ Welcome to a realm where the aroma of freshly baked bread and the allure of deca
 
 **2.6 WooCommerce PDF Invoices & Packing Slips Thai Language Pack:**[WooCommerce PDF Invoices & Packing Slips Thai Language Pack] Adds Thai font (Norasi) to WooCommerce PDF Invoices & Packing Slips.
 
-## 3. Method
 
 ## 4. Visual Overview
 - The project is about developing an E-Commerce Website for Maximan, a bakery shop. 
