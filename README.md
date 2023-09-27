@@ -45,14 +45,11 @@ This platform will allow Maximan customers to browse, and buy bakery online, enh
 ![Digram img](img/m.jpg)
 This BPMN diagram show my E-Commerce Website processes 
 
-- - Customers come to buy products. Then choose the products that they want.
-If wanting to buy more products, go back to the previous product selection page. If you don't buy more, go to the cart.
-and then check to see if the products in the cart are complete or not
-proceed to payment
-  Provide full address details
-specify payment method Now there is only a collection of destination. 
-proceed to payment
 # All Pools in BPMN
 - Customer
 - Website
+- Admin
+- Cash on delivery
+- Banking system
 - Shipping company
+
