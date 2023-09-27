@@ -78,3 +78,7 @@ This BPMN diagram show my E-Commerce Website processes
 **Payment Method:** The customer make a payment on what they choose  For Bank transfer, customer have to sent the payment proof to admin by using contact form to sent photo or customer can sent via instagram,messenger, Line. 
 In the cash on delivery section Customers choose to pay on delivery.
 After the customer receives the product The customer makes payment to the shipping company. 
+
+      <img src="img/สินค้า.png" alt="Payment Banking" width="300" height="200" style="margin-right: 20px;">
+     
+     
