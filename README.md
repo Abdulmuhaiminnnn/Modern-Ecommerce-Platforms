@@ -67,6 +67,10 @@ This BPMN diagram show my E-Commerce Website processes
 
 ![pool customer](img/cart.png) 
 
-**Customer informs address details:** The process to Checkout the product.
+**Customer informs address details:** 
 
-![pool customer](img/กรอกที่อยู่.png)
+![pool customer](img/กรอกที่อยู่.png) 
+
+**Choose payment method:**
+
+
