@@ -69,4 +69,4 @@ This BPMN diagram show my E-Commerce Website processes
 
 **Customer informs address details:** The process to Checkout the product.
 
-
+![pool customer](img/กรอกทีอยู่.png)
