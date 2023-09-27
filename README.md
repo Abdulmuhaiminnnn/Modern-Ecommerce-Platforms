@@ -103,6 +103,8 @@ After the customer receives the product The customer makes payment to the shippi
 
 ## Admin pool
 
+![admin pool](img/Admin.png)
+
 **Check whether the stock is sufficient.** Then prepare the order for delivery, then check to see how many items are still left. If the product is out of stock, inform the customer that the product is out of stock, but if the product is still available, it is ready to ship. Then inform the customer that there is a product.
 
 
