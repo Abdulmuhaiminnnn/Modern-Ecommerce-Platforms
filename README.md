@@ -71,7 +71,10 @@ This BPMN diagram show my E-Commerce Website processes
 
 ![pool customer](img/กรอกที่อยู่.png) 
 
-**Choose payment method:**
+**Choose payment method:** Our bakery has two payment systems for customers to choose from.Banking system and Cash on delivery.
 
 ![pool customer](img/เลือกวิการชำระ.png) 
 
+**Payment Method:** The customer make a payment on what they choose  For Bank transfer, customer have to sent the payment proof to admin by using contact form to sent photo or customer can sent via instagram,messenger, Line. 
+In the cash on delivery section Customers choose to pay on delivery.
+After the customer receives the product The customer makes payment to the shipping company. 
