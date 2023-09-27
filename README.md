@@ -42,7 +42,7 @@ This platform will allow Maximan customers to browse, and buy bakery online, enh
 ![homepage two](img/cart.png)
 
 # BPMN Diagram
-![Digram img](img/d1.png)
+![Digram img](img/m.jpg)
 
 - - Customers come to buy products. Then choose the products that they want.
 If wanting to buy more products, go back to the previous product selection page. If you don't buy more, go to the cart.
