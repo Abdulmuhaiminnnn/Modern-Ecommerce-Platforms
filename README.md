@@ -147,6 +147,7 @@ Customers pay cash upon receipt.
 Our website was built to celebrate the combination of WordPress and WooCommerce, allowing us to bring a warm and diverse bakery experience straight to your screen. which are meticulously crafted, each piece has a harmonious taste and texture.
 
 ## Author
+
 **Abdulmuhaimin Keai**
 
 **631431016 Fatoni University**
